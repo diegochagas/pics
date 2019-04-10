@@ -5,6 +5,8 @@ Web app that search for images, based on the course [Modern React with Redux [20
 ## Technology used
 
 - React
+- Axios
+- Unsplash API
 - HTML
 - CSS
 - JavaScript
