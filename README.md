@@ -10,3 +10,7 @@ Web app that search for images, based on the course [Modern React with Redux [20
 - HTML
 - CSS
 - JavaScript
+
+---
+
+# Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me." - John 14:6
